@@ -5,7 +5,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 ## Contents
 * Numerical Algorithms Implementation
   * Vectors and Matrices Operation
-  * Gaussian Elimination with Floating Point Numbers
+  * Gaussian Elimination with Floating Point Arithmetic
   * Echelon Form and Row Reduced Form 
   * Text Mining Application using Vector-Space-model
 * Project Exam
