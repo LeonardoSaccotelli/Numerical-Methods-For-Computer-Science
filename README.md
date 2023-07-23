@@ -6,6 +6,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 * Numerical Algorithms Implementation
   * Vectors and Matrices Operation
   * Gaussian Elimination with Floating Point Arithmetic
-  * Echelon Form and Row Reduced Form 
+  * Echelon Form and Row Reduced Echelon Form with applications
+    * Comparing of the spanning sets of all the four fundamental subspaces
+    * Image compression
   * Text Mining Application using Vector-Space-model
 * Project Exam
