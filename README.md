@@ -7,7 +7,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
   * Vectors and Matrices Operation
   * Gaussian Elimination with Floating Point Arithmetic
   * Echelon Form and Row Reduced Echelon Form with applications
-    * Comparing of the spanning sets of all the four fundamental subspaces
+    * Computation of the spanning sets of all the four fundamental subspaces
     * Image compression
   * Text Mining Application using Vector-Space-model
 * Project Exam
