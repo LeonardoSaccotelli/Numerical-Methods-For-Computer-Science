@@ -9,5 +9,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
   * Echelon Form and Row Reduced Echelon Form with applications
     * Computation of the spanning sets of all the four fundamental subspaces
     * Image compression
+  * Matrix Product with applications
+    * Airport, flights and connectivity matrix
   * Text Mining Application using Vector-Space-model
 * Project Exam
