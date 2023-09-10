@@ -7,6 +7,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
   * Vectors and Matrices Operation
   * Gaussian Elimination with Floating Point Arithmetic
   * Echelon Form and Row Reduced Echelon Form with applications
+    * Block Matrix Multiplication
+    * Matrix Inverse
     * Computation of the spanning sets of all the four fundamental subspaces
     * Image compression
   * Matrix Product with applications
