@@ -5,7 +5,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 ## Contents
 * Numerical Algorithms Implementation & Applications
   * Vectors and Matrices Operation
-  * Gaussian Elimination with Floating Point Arithmetic
+  * Gaussian Elimination with Floating Point Arithmetic & LU Decomposition
   * Echelon Form and Row Reduced Echelon Form with applications
     * Block Matrix Multiplication
     * Matrix Inverse
