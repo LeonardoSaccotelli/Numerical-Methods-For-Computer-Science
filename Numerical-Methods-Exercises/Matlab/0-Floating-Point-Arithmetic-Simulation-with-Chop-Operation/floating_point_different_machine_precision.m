@@ -68,8 +68,3 @@ err_c = (x - xc)/x;
 disp("Number in the custom precision: " + string(xc));
 disp("Error computed by using the custom precision: " + string(err_c));
 disp("-----------------------------------------------------------------------------");
-
-
-
-clc
-float_params('q52')
