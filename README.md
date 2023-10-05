@@ -6,7 +6,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 ## Numerical Algorithms Implementation & Applications
 * Matlab
 	* Numerical-Experiments
-		* Floating-Point-Arithmetic-Simulation-with-Chop-Operation
+		* Floating Point Arithmetic Simulation with Chop Operation
 
 * Python
   * Numerical-Experiments
