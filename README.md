@@ -7,6 +7,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 * Matlab
 	* Numerical-Experiments
 		* Floating Point Arithmetic Simulation with Chop Operation
+		* Matrix Inverse, Involutory Matrix and Crypthography application
 
 * Python
   * Numerical-Experiments
