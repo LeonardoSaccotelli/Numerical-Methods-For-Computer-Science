@@ -49,23 +49,24 @@ end
 %% Function to plot and compare the encrypeted/ decrypeted matrix
 function show_incr_decrytp_img(orig_img, orig_img_gray, encr_img, decr_img)
 figure();
-subplot(2,2,1);
+t = tiledlayout(2,2);
+nexttile;
 imshow(orig_img);
 title("Original RGB image");
 
-subplot(2,2,2);
+nexttile;
 imshow(orig_img_gray);
 title("Original gray-scale image");
 
 % we need to put the entries bewteen 0 and 255 
 % in order to show the img in RGB colors 
-subplot(2,2,3);
+nexttile;
 imagesc(mod(encr_img,255));
 title("Encrypted gray-scale image");
 
-subplot(2,2,4);
+nexttile;
 imshow(decr_img);
 title("Decrypted gray-scale image");
 
-sgtitle("Matrix Inversion and Involutory Matrix used to encrypt/decrypt an image");
+title(t, "Matrix Inversion and Involutory Matrix used to encrypt/decrypt an image");
 end
