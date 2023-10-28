@@ -21,6 +21,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 		* Image compression
 	  * Matrix Product with applications
 		* Airport, flights and connectivity matrix
-	  * Text Mining Application using Vector-Space-model
+	  * Norms and Cosine similarity with applications
+		* Linear Correlation
+		* Text Mining using Vector-Space-model
   * Numerical-Projects-Exam
 	
