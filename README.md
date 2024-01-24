@@ -24,5 +24,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 	  * Norms and Cosine similarity with applications
 		* Linear Correlation
 		* Text Mining using Vector-Space-model
+    * Orthogonality
+    	* Standard and Modified Gram-Schmidt procedure
+     	* QR decomposition  
   * Numerical-Projects-Exam
 	
