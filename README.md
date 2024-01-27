@@ -26,6 +26,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 		* Text Mining using Vector-Space-model
     * Orthogonality
     	* Standard and Modified Gram-Schmidt procedure
-     	* QR decomposition  
+     	* QR decomposition
+		* QR with pivoting (rank-revealing algorithm) for image compression
   * Numerical-Projects-Exam
 	
