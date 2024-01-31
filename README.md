@@ -9,6 +9,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 		* Floating Point Arithmetic Simulation with Chop Operation
 		* Geometrical representations of ill-conditioned linear systems
 		* Matrix Inverse, Involutory Matrix and Crypthography application
+  		* Eigenvalues, Eigenvectors and Spectral Clustering 
 
 * Python
   * Numerical-Experiments
