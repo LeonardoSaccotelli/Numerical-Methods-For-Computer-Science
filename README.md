@@ -29,5 +29,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
     	* Standard and Modified Gram-Schmidt procedure
      	* QR decomposition
 		* QR with pivoting (rank-revealing algorithm) for image compression
+    * Eigenvalues and Eigenvectors
+      * Power Method and Normalized Power Method to compute the absolute dominant eigenvale
+      * Normalized Power Method for Google Page Rank 
   * Numerical-Projects-Exam
 	
