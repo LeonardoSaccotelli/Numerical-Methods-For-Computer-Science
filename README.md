@@ -31,6 +31,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
 		* QR with pivoting (rank-revealing algorithm) for image compression
     * Eigenvalues and Eigenvectors
       * Power Method and Normalized Power Method to compute the absolute dominant eigenvalue
-      * Normalized Power Method for Google Page Rank 
+      * Normalized Power Method for Google Page Rank
+    * URV, SVD and PCA
+      * Image compression  	
   * Numerical-Projects-Exam
 	
