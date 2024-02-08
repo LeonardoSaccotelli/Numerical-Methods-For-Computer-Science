@@ -1,5 +1,5 @@
 # Numerical-Methods-For-Computer-Science: Numerical Algorithms Implementation
-This repository collects the implementation of numerical algorithms, with several application in different field of artificial intelligence.
+This repository collects the implementation of numerical algorithms, with several applications in different field of artificial intelligence.
 This work has been developed during the Numerical Methods For Computer Science course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) 
 under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~mazzia/mazzia/) and dr. [Antonella Falini](https://www.researchgate.net/profile/Antonella-Falini).
 
@@ -32,7 +32,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
     * Eigenvalues and Eigenvectors
       * Power Method and Normalized Power Method to compute the absolute dominant eigenvalue
       * Normalized Power Method for Google Page Rank
-    * URV, SVD and PCA
+    * URV, SVD and PCA with applications
       * Image compression  	
   * Numerical-Projects-Exam
 	
