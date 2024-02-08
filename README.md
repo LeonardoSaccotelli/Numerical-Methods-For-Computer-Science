@@ -33,6 +33,7 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
       * Power Method and Normalized Power Method to compute the absolute dominant eigenvalue
       * Normalized Power Method for Google Page Rank
     * URV, SVD and PCA with applications
-      * Image compression  	
+      * Image compression
+      * Data reduction and visualization with Iris dataset 	
   * Numerical-Projects-Exam
 	
