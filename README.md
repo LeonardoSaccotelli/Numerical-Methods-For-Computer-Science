@@ -36,5 +36,6 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
       * Image compression
       * Data reduction and visualization with Iris dataset
       * Face recognition with Yalenfaces dataset
+    * Least-squares problem 
   * Numerical-Projects-Exam
 	
