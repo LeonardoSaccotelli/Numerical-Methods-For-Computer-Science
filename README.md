@@ -40,4 +40,6 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
       * Text retrieval (Principal compoenent regression)
     * Least-squares problem 
   * Numerical-Projects-Exam
+  	* PCA for digits recognition with mnist dataset
+   	* SVD for spectral clustering  
 	
