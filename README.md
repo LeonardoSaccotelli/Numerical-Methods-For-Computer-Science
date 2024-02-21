@@ -29,10 +29,11 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
     	* Standard and Modified Gram-Schmidt procedure
      	* QR decomposition
 		* QR with pivoting (rank-revealing algorithm) for image compression
+      		* QR with pivoting (rank-revealing algorithm) for text retrieval
     * Eigenvalues and Eigenvectors
       * Power Method and Normalized Power Method to compute the absolute dominant eigenvalue
       * Normalized Power Method for Google Page Rank
-    * URV, SVD, PCAand Projector with applications
+    * URV, SVD, PCA and Projector with applications
       * Image compression
       * Data reduction and visualization with Iris dataset
       * Face recognition with Yalenfaces dataset
