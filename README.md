@@ -28,8 +28,8 @@ under the supervision of dr. [Francesca Mazzia](https://archimede.dm.uniba.it/~m
     * Orthogonality
     	* Standard and Modified Gram-Schmidt procedure
      	* QR decomposition
-		* QR with pivoting (rank-revealing algorithm) for image compression
-      		* QR with pivoting (rank-revealing algorithm) for text retrieval
+         * QR with pivoting (rank-revealing algorithm) for image compression
+    	 * QR with pivoting (rank-revealing algorithm) for text retrieval
     * Eigenvalues and Eigenvectors
       * Power Method and Normalized Power Method to compute the absolute dominant eigenvalue
       * Normalized Power Method for Google Page Rank
